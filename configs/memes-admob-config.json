@@ -1,10 +1,11 @@
 {
     "data": [
         "memes", "meme",
-        "creative",
+        "reddit", "4chan", "8chan", "instagram", "facebook", "tumblr", "gyfcat",
+        "creative", "drawing", "graphic",
         "canvas", "business card",
         "startup", "entreperneur",
         "travel", "trip", "ticket", "vacations",
-        "troll", "fun", "crazy"
+        "troll", "fun", "crazy", "prank", "madness"
     ]
 }
