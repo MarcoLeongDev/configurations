@@ -1,0 +1,48 @@
+{
+    "sourceURL": "https://raw.githubusercontent.com/MarcoLeongDev/configurations/master/configs/opencallshield.json",
+    "version": "1.0",
+    "contributer": ["marco leong"],
+    "date": "2024-08-11T22:51:00Z",
+    "license": "AGPL-3.0 and commerical license upon request",
+    "licenseDescription": "The Affero General Public License requires that if you use the licensed software to provide a network service, you must offer users of that service access to the source code of the software and any modifications you have made. Full detail can be found in https://www.gnu.org/licenses/agpl-3.0.en.html. For commerical license, kindly contact the original contributor of this project",
+    "contacts": [
+        {
+            "classification": "scammerPotential",
+            "organizationName": "Blocked by OpenCallShield",
+            "phones": [
+                {"scammer (potential)": "1234567890"},
+                {"scammer (potential)": "0987654321"},
+                {"scammer (potential)": "2349872349"}
+            ]
+        },
+        {
+            "classification": "scammer",
+            "organizationName": "Blocked by OpenCallShield",
+            "phones": [
+                {"scammer": "1234567890"},
+                {"scammer": "0987654321"},
+                {"scammer": "2349872349"}
+            ]
+            
+        },
+        {
+            "classification": "telemarketerPotential",
+            "organizationName": "Blocked by OpenCallShield",
+            "phones": [
+                {"telemarketer (potential)": "1234567890"},
+                {"telemarketer (potential)": "0987654321"},
+                {"telemarketer (potential)": "2349872349"}
+            ]
+            
+        },
+        {
+            "classification": "telemarketer",
+            "organizationName": "Blocked by OpenCallShield",
+            "phones": [
+                {"telemarketer": "1234567890"},
+                {"telemarketer": "0987654321"},
+                {"telemarketer": "2349872349"}
+            ]
+        }
+    ]
+}
